@@ -1,12 +1,17 @@
 class Solution {
 public:
     bool isAnagram(string s, string t) {
-        sort(s.begin(),s.end());
-        sort(t.begin(),t.end());
+        map<char, int> m;
+        map<char, int> n;
 
-        if(s==t){
-            return true;
+        for (char c : s) {
+            m[c]++;
         }
-        return false;
+
+        for (char c : t) {
+            n[c]++;
+        }
+
+        return m == n;
     }
 };
