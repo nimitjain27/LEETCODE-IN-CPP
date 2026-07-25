@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nimitjain27/DSA_IN_CPP/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/nimitjain27/DSA_IN_CPP/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/nimitjain27/DSA_IN_CPP/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/nimitjain27/DSA_IN_CPP/tree/master/0219-contains-duplicate-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/nimitjain27/DSA_IN_CPP/tree/master/0160-intersection-of-two-linked-lists) |
 | [0205-isomorphic-strings](https://github.com/nimitjain27/DSA_IN_CPP/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/nimitjain27/DSA_IN_CPP/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/nimitjain27/DSA_IN_CPP/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/nimitjain27/DSA_IN_CPP/tree/master/0242-valid-anagram) |
 ## Math
 |  |
@@ -95,4 +97,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/nimitjain27/DSA_IN_CPP/tree/master/0234-palindrome-linked-list) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/nimitjain27/DSA_IN_CPP/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
