@@ -14,12 +14,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/nimitjain27/DSA_IN_CPP/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nimitjain27/DSA_IN_CPP/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/nimitjain27/DSA_IN_CPP/tree/master/0136-single-number) |
+| [0217-contains-duplicate](https://github.com/nimitjain27/DSA_IN_CPP/tree/master/0217-contains-duplicate) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/nimitjain27/DSA_IN_CPP/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/nimitjain27/DSA_IN_CPP/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/nimitjain27/DSA_IN_CPP/tree/master/0160-intersection-of-two-linked-lists) |
+| [0217-contains-duplicate](https://github.com/nimitjain27/DSA_IN_CPP/tree/master/0217-contains-duplicate) |
 ## Math
 |  |
 | ------- |
@@ -55,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/nimitjain27/DSA_IN_CPP/tree/master/0088-merge-sorted-array) |
+| [0217-contains-duplicate](https://github.com/nimitjain27/DSA_IN_CPP/tree/master/0217-contains-duplicate) |
 ## Dynamic Programming
 |  |
 | ------- |
