@@ -5,31 +5,16 @@ public:
         if(s.length() != t.length())
             return false;
 
-        unordered_map<char,char> mp1;
-        unordered_map<char,char> mp2;
+        int mapS[256] = {0};
+        int mapT[256] = {0};
 
         for(int i = 0; i < s.length(); i++)
         {
-            char c1 = s[i];
-            char c2 = t[i];
+            if(mapS[s[i]] != mapT[t[i]])
+                return false;
 
-           
-            if(mp1.find(c1) != mp1.end())
-            {
-                if(mp1[c1] != c2)
-                    return false;
-            }
-
-            
-            if(mp2.find(c2) != mp2.end())
-            {
-                if(mp2[c2] != c1)
-                    return false;
-            }
-
-           
-            mp1[c1] = c2;
-            mp2[c2] = c1;
+            mapS[s[i]] = i + 1;
+            mapT[t[i]] = i + 1;
         }
 
         return true;
