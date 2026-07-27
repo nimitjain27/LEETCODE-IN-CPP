@@ -1,21 +1,16 @@
 class Solution {
 public:
     vector<int> intersection(vector<int>& nums1, vector<int>& nums2) {
-
-        unordered_set<int> s;
-        vector<int> ans;
-
-        for (int x : nums1) {
-            s.insert(x);
-           
-        }
+        unordered_set<int> s(nums1.begin(),nums1.end());
+        unordered_set<int> ans;
 
         for(int x : nums2){
             if(s.count(x)){
-                ans.push_back(x);
+                ans.insert(x);
                 s.erase(x);
             }
         }
-        return ans;
+        return vector<int>(ans.begin(),ans.end());
+
     }
 };
