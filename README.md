@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/nimitjain27/DSA_IN_CPP/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/nimitjain27/DSA_IN_CPP/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/nimitjain27/DSA_IN_CPP/tree/master/0349-intersection-of-two-arrays) |
+| [0383-ransom-note](https://github.com/nimitjain27/DSA_IN_CPP/tree/master/0383-ransom-note) |
 ## Math
 |  |
 | ------- |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/nimitjain27/DSA_IN_CPP/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/nimitjain27/DSA_IN_CPP/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/nimitjain27/DSA_IN_CPP/tree/master/0242-valid-anagram) |
+| [0383-ransom-note](https://github.com/nimitjain27/DSA_IN_CPP/tree/master/0383-ransom-note) |
 ## Trie
 |  |
 | ------- |
@@ -109,4 +111,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/nimitjain27/DSA_IN_CPP/tree/master/0219-contains-duplicate-ii) |
+## Counting
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/nimitjain27/DSA_IN_CPP/tree/master/0383-ransom-note) |
 <!---LeetCode Topics End-->
