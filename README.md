@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/nimitjain27/DSA_IN_CPP/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/nimitjain27/DSA_IN_CPP/tree/master/0219-contains-duplicate-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/nimitjain27/DSA_IN_CPP/tree/master/0349-intersection-of-two-arrays) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/nimitjain27/DSA_IN_CPP/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/nimitjain27/DSA_IN_CPP/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/nimitjain27/DSA_IN_CPP/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/nimitjain27/DSA_IN_CPP/tree/master/0349-intersection-of-two-arrays) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/nimitjain27/DSA_IN_CPP/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -117,4 +119,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/nimitjain27/DSA_IN_CPP/tree/master/0383-ransom-note) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/nimitjain27/DSA_IN_CPP/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 <!---LeetCode Topics End-->
