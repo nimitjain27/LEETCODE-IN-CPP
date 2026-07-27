@@ -12,19 +12,19 @@ public:
 
         int n1 = nums[0];
         int n2 = nums[1];
-        int n3 = nums[2];
+       
 
         int max1 = m1 * m2 * m3;
-        int max2 = n1 * n2 * n3;
+        
         int max3 = n1 * n2 * m1;
 
         int max = 0;
-        if (max1 > max2 && max1 > max3) {
+        if (max1 > max3) {
             max = max1;
-        } else if (max2 > max1 && max2 > max3) {
-            max = max2;
+        } else{
+            max = max3;
         }
-        else{max=max3;}
+        
         return max;
     }
 };
