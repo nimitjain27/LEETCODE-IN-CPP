@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/nimitjain27/DSA_IN_CPP/tree/master/0020-valid-parentheses) |
+| [0155-min-stack](https://github.com/nimitjain27/DSA_IN_CPP/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/nimitjain27/DSA_IN_CPP/tree/master/0234-palindrome-linked-list) |
 ## Sliding Window
 |  |
@@ -132,4 +133,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/nimitjain27/DSA_IN_CPP/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/nimitjain27/DSA_IN_CPP/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
