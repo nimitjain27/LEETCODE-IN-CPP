@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/nimitjain27/DSA_IN_CPP/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/nimitjain27/DSA_IN_CPP/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/nimitjain27/DSA_IN_CPP/tree/master/0383-ransom-note) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/nimitjain27/DSA_IN_CPP/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Trie
 |  |
 | ------- |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/nimitjain27/DSA_IN_CPP/tree/master/0349-intersection-of-two-arrays) |
 | [0628-maximum-product-of-three-numbers](https://github.com/nimitjain27/DSA_IN_CPP/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/nimitjain27/DSA_IN_CPP/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/nimitjain27/DSA_IN_CPP/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -126,4 +128,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/nimitjain27/DSA_IN_CPP/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/nimitjain27/DSA_IN_CPP/tree/master/3517-smallest-palindromic-rearrangement-i) |
 <!---LeetCode Topics End-->
