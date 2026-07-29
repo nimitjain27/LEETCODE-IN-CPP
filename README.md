@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/nimitjain27/DSA_IN_CPP/tree/master/0349-intersection-of-two-arrays) |
 | [0496-next-greater-element-i](https://github.com/nimitjain27/DSA_IN_CPP/tree/master/0496-next-greater-element-i) |
 | [0628-maximum-product-of-three-numbers](https://github.com/nimitjain27/DSA_IN_CPP/tree/master/0628-maximum-product-of-three-numbers) |
+| [0682-baseball-game](https://github.com/nimitjain27/DSA_IN_CPP/tree/master/0682-baseball-game) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/nimitjain27/DSA_IN_CPP/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Hash Table
 |  |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/nimitjain27/DSA_IN_CPP/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/nimitjain27/DSA_IN_CPP/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/nimitjain27/DSA_IN_CPP/tree/master/0496-next-greater-element-i) |
+| [0682-baseball-game](https://github.com/nimitjain27/DSA_IN_CPP/tree/master/0682-baseball-game) |
 ## Sliding Window
 |  |
 | ------- |
@@ -150,4 +152,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/nimitjain27/DSA_IN_CPP/tree/master/0496-next-greater-element-i) |
+## Simulation
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/nimitjain27/DSA_IN_CPP/tree/master/0682-baseball-game) |
 <!---LeetCode Topics End-->
