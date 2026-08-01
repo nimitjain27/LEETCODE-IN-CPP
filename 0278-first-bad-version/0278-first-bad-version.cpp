@@ -6,7 +6,7 @@ public:
     int firstBadVersion(int n) {
         int left = 1;
         long long right = n;
-        long long ans=0;
+        int ans=0;
 
         long long mid=(left+right-1)/2;
 
