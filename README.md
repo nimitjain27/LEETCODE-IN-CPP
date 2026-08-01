@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/nimitjain27/DSA_IN_CPP/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/nimitjain27/DSA_IN_CPP/tree/master/0069-sqrtx) |
+| [0278-first-bad-version](https://github.com/nimitjain27/DSA_IN_CPP/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/nimitjain27/DSA_IN_CPP/tree/master/0349-intersection-of-two-arrays) |
 ## Sorting
 |  |
@@ -173,4 +174,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0933-number-of-recent-calls](https://github.com/nimitjain27/DSA_IN_CPP/tree/master/0933-number-of-recent-calls) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/nimitjain27/DSA_IN_CPP/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
